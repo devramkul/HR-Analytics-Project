@@ -29,3 +29,6 @@ MySQL Queries: The project includes sample SQL queries that can be executed in M
 
 # Conclusion
 The HR Analytics Project combines the power of Power BI and MySQL to provide a comprehensive analysis of HR data. By utilizing the dataset and the Power BI dashboard, users can gain valuable insights into various HR aspects. The provided SQL queries further enhance the project's capabilities by allowing users to perform custom analyses and verify the data independently.
+
+# Challenges
+Faced challenges when cross-verifying SQL queries with Power BI and when customizing complex SQL queries within the Power BI dashboard. These challenges can include ensuring that the data retrieved in SQL matches the data displayed in the dashboard, optimizing query performance, and designing the dashboard to effectively accommodate complex data transformations and custom queries. These challenges require careful coordination between your SQL database and Power BI development teams to ensure data consistency and a seamless user experience.
