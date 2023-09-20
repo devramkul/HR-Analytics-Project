@@ -24,8 +24,8 @@ Power BI Dashboard: The Power BI dashboard leverages the HR dataset to provide v
 
 MySQL Queries: The project includes sample SQL queries that can be executed in MySQL to analyze and verify the data. These queries serve as a means to perform in-depth analysis and gain insights beyond what is presented in the Power BI dashboard.
 
-# Conclusion
-The HR Analytics Project combines the power of Power BI and MySQL to provide a comprehensive analysis of HR data. By utilizing the dataset and the Power BI dashboard, users can gain valuable insights into various HR aspects. The provided SQL queries further enhance the project's capabilities by allowing users to perform custom analyses and verify the data independently.
-
 ![Screenshot](Dashboard_.png)
 *Screenshot of Sales Dashboard*
+
+# Conclusion
+The HR Analytics Project combines the power of Power BI and MySQL to provide a comprehensive analysis of HR data. By utilizing the dataset and the Power BI dashboard, users can gain valuable insights into various HR aspects. The provided SQL queries further enhance the project's capabilities by allowing users to perform custom analyses and verify the data independently.
