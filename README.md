@@ -18,7 +18,7 @@ dataset.sql: This SQL script file contains the necessary commands to create the 
 
 queries.sql: This SQL script file contains sample queries that can be executed in MySQL to perform data analysis and verification. These queries can help users gain deeper insights into the HR dataset and cross-verify the information presented in the Power BI dashboard.
 
-![Test Document](PNG/Test%20Document.png)
+![Test Document](PNG%20Files/Test%20Document.png)
 
 # Project Components
 The HR Analytics Project consists of the following components:
@@ -29,14 +29,14 @@ Power BI Dashboard: The Power BI dashboard leverages the HR dataset to provide v
 
 MySQL Queries: The project includes sample SQL queries that can be executed in MySQL to analyze and verify the data. These queries serve as a means to perform in-depth analysis and gain insights beyond what is presented in the Power BI dashboard.
 
-![Testing Power Reports In SQL](PNG/Testing%20Power%20Reports%20In%20SQL.png)
+![Testing Power Reports In SQL](PNG%20Files/Testing%20Power%20Reports%20In%20SQL.png)
 
 # Conclusion
 The HR Analytics Project combines the power of Power BI and MySQL to provide a comprehensive analysis of HR data. By utilizing the dataset and the Power BI dashboard, users can gain valuable insights into various HR aspects. The provided SQL queries further enhance the project's capabilities by allowing users to perform custom analyses and verify the data independently.
 
-![Job Satisfaction Rating](PNG/Job%20Satisfaction%20Rating.png)
+![Job Satisfaction Rating](PNG%20Files/Job%20Satisfaction%20Rating.png)
 
-![Dashboard](PNG/Dashboard_.png)
+![Dashboard](PNG%20Files/Dashboard_.png)
 
 # Challenges
 Faced challenges when cross-verifying SQL queries with Power BI and when customizing complex SQL queries within the Power BI dashboard. These challenges can include ensuring that the data retrieved in SQL matches the data displayed in the dashboard, optimizing query performance, and designing the dashboard to effectively accommodate complex data transformations and custom queries. These challenges require careful coordination between your SQL database and Power BI development teams to ensure data consistency and a seamless user experience.
